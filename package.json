@@ -71,7 +71,7 @@
     "karma-phantomjs-launcher": "^1.0.2",
     "phantomjs-prebuilt": "^2.1.14",
     "st": ">=1.2.2",
-    "sw-precache": "^3.2.0"
+    "sw-precache": "^5.0.0"
   },
   "standard": {
     "globals": [
